@@ -1,0 +1,30 @@
+.watchlist {
+  padding: 20px;
+}
+
+.watchlist-form {
+  display: flex;
+  gap: 8px;
+  margin: 12px 0;
+}
+
+.watchlist-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.watchlist-item {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 10px;
+  background: white;
+  border-radius: 8px;
+}
+
+.error {
+  color: crimson;
+}

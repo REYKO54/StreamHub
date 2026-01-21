@@ -1,0 +1,46 @@
+.admin {
+  padding: 20px;
+}
+
+.admin-form {
+  display: grid;
+  gap: 8px;
+  max-width: 520px;
+}
+
+.admin-field {
+  display: grid;
+  gap: 4px;
+}
+
+.admin-sep {
+  margin: 16px 0;
+}
+
+.admin-list {
+  display: grid;
+  gap: 10px;
+  padding-left: 16px;
+}
+
+.admin-item {
+  display: grid;
+  gap: 6px;
+  padding: 10px;
+  background: white;
+  border-radius: 8px;
+}
+
+.admin-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.admin-edit {
+  margin-top: 8px;
+}
+
+.error {
+  color: crimson;
+}

@@ -1,0 +1,23 @@
+.login {
+  padding: 20px;
+}
+
+.login-form {
+  display: grid;
+  gap: 8px;
+  max-width: 320px;
+}
+
+.login-field {
+  display: grid;
+  gap: 4px;
+}
+
+.login-logged {
+  display: grid;
+  gap: 8px;
+}
+
+.error {
+  color: crimson;
+}
